@@ -1,2 +1,2 @@
-[![Build Status](https://img.shields.io/travis/vanhumbeecka/todelete.svg?style=flat-square)](https://travis-ci.org/vanhumbeecka/todelete)
-[![Coverage Status](https://img.shields.io/coveralls/vanhumbeecka/todelete.svg?style=flat-square)](https://coveralls.io/github/vanhumbeecka/todelete?branch=master)
+[![Build Status](https://img.shields.io/travis/VanHumbeeckA/todelete.svg?style=flat-square)](https://travis-ci.org/VanHumbeeckA/todelete)
+[![Coverage Status](https://img.shields.io/coveralls/VanHumbeeckA/todelete.svg?style=flat-square)](https://coveralls.io/github/VanHumbeeckA/todelete?branch=master)
